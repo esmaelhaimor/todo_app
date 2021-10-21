@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:get_storage/get_storage.dart';
 import '../db/db_helper.dart';
-import '/services/notification_services.dart';
 import '../services/theme_services.dart';
 import '../ui/theme.dart';
-import '../ui/pages/notification_screen.dart';
 import '../ui/pages/home_page.dart';
 
 void main() async{
